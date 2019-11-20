@@ -10,6 +10,4 @@
 
 normaler text
 
-##Bild
-
 ![Bild](C:\Users\strib\OneDrive\Desktop\Work\3.Semester\OpenSourceBasierteSysteme\Praktikum\Aufgabe4\Einkaufsliste\affe.jpg "n bild halt")
