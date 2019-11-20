@@ -12,4 +12,4 @@ normaler text
 
 ##Bild
 
-![Text](C:\Users\strib\OneDrive\Desktop\Work\3.Semester\OpenSourceBasierteSysteme\Praktikum\Aufgabe4\affe.jpg "n bild halt")
+!(C:\Users\strib\OneDrive\Desktop\Work\3.Semester\OpenSourceBasierteSysteme\Praktikum\Aufgabe4\affe.jpg "n bild halt")
